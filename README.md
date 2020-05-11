@@ -14,4 +14,5 @@
 |Peanutbutter| 3|
 |Whoopie Pie| 2|
 |Oatmeal Raisin| 2 |
-|Chocolate Pecan| 1 |
+|Chocolate Chip| 1 |
+|Mexican Wedding Cookies | 7 |
