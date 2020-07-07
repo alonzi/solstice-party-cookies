@@ -14,5 +14,5 @@
   |Peanutbutter| 3|
   |Whoopie Pie| 2|
   |Oatmeal Raisin| 2 |
-  |Peppermint Chocolate| 2 |
-  |Fortune Cookies| 13 |
+  |Peppermint Chocolate| 20 |
+  |Fortune Cookies| 3 |
