@@ -16,3 +16,5 @@
 |Oatmeal Raisin| 2 |
 |Chocolate Chip| 42 |
 |Mexican Wedding Cookies | 7 |
+|Banana Drop Cookies | 4 |
+|Molasses Crinkle Cookies | 4 |
