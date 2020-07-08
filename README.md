@@ -17,3 +17,4 @@
 |Chocolate Chip| 1 |
 |Mexican Wedding Cookies | 7 |
 |Banana Drop Cookies | 4 |
+|Molasses Crinkle Cookies | 4 |
