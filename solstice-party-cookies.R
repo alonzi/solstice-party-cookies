@@ -11,7 +11,7 @@
   |Thumbprint | 2 |
   |Snickerdoodles|100|
   |Snowball| 1|
-  |Peanutbutter| 3|
+  |Peanutbutter| 30|
   |Whoopie Pie| 2|
   |Oatmeal Raisin| 2 |
   |Peppermint Chocolate| 20 |
