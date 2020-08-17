@@ -13,6 +13,6 @@
   |Snowball| 1|
   |Peanutbutter| 30|
   |Whoopie Pie| 2|
-  |Oatmeal Raisin| 2 |
+  |Oatmeal Raisin| 0 |
   |Peppermint Chocolate| 20 |
   |Fortune Cookies| 3 |
