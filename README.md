@@ -6,7 +6,7 @@
 |------|:--------:|
 | Sugar|2 |
 |Gingerbread| 1 |
-|Shortbread Cookies| 2 |
+|Shortbread Cookies| 3 |
 |Blobs|6 |
 |Thumbprint | 2 |
 |Snickerdoodles|3|
