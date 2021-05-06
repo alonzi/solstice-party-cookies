@@ -16,3 +16,4 @@
   |Oatmeal Raisin| 0 |
   |Peppermint Chocolate| 20 |
   |Fortune Cookies| 3 |
+  |Mint Grinch Cookies| 1 |
