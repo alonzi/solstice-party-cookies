@@ -9,7 +9,7 @@
   |Shortbread Cookies| 2 |
   |Blobs|6 |
   |Thumbprint | 2 |
-  |Snickerdoodles|100|
+  |Snickerdoodles|101|
   |Snowball| 1|
   |Peanutbutter| 30|
   |Whoopie Pie| 2|
